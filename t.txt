@@ -1,0 +1,84 @@
+{
+  "title": {
+    "title": "Updated Spering"
+  },
+  "navbar": {
+    "nav0": "Home",
+    "nav1": "About",
+    "nav2": "Work",
+    "nav3": "Category"
+  },
+  "b": {
+    "b0": "Updated You Can",
+    "b1": "Updated It is a long established fact that a reader will be distracted by the readable content of a page",
+    "b2": "Updated About us",
+    "b3": "Updated Get a Quote"
+  },
+  "c": {
+    "c0": "Updated You can",
+    "c1": "Updated It is a long established fact that a reader will be distracted by the readable content of a page",
+    "c2": "Updated About us",
+    "c3": "Updated Get a Quote"
+  },
+  "d": {
+    "d0": "Updated You can",
+    "d1": "Updated It is a long established fact that a reader will be distracted by the readable content of a page",
+    "d2": "Updated About us",
+    "d3": "Updated Get a Quote"
+  },
+  "experience": {
+    "e0": "Updated Best Experienced Freelancer Here",
+    "e1": "Updated It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as",
+    "e2": "Updated Read More",
+    "e3": "Updated Hire"
+  },
+  "category": {
+    "ct0": "Category",
+    "ct1": "Update Design and Arts",
+    "ct2": "Update Web Development",
+    "ct3": "Update SEO Marketing",
+    "ct4": "Update Video Editing",
+    "ct5": "Update Logo Design",
+    "ct6": "Update Game Design"
+  },
+  "about": {
+    "a0": "Update About Spering Company",
+    "a1": "Update There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you",
+    "a2": "Update Read More"
+  },
+  "freelance": {
+    "f0": "Update Work Freelancer Has Done",
+    "f1": "Update $250 Million",
+    "f2": "Update Paid to Freelancers",
+    "f3": "Update 2 Million",
+    "f4": "Update Paid Invoices",
+    "f5": "Update 700,000",
+    "f6": "Update Worldwide Freelancer",
+    "f7": "Update 98%",
+    "f8": "Update Customer Satisfaction Rate"
+  },
+  "testimonial": {
+    "t0": "Update Testimonial",
+    "t1": "Update John Hissona",
+    "t2": "Update passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If youThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in s",
+    "t3": "Update John Hissona",
+    "t4": "Update passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If youThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in s",
+    "t5": "Update John Hissona",
+    "t6": "Update passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If youThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in s"
+  },
+  "info": {
+    "i0": "Update Useful Link",
+    "i1": "Update Offices",
+    "i2": "Update Readable content of a page when looking at its layoutreadable content of a page when looking at its layout",
+    "i3": "Update Information",
+    "i4": "Update Readable content of a page when looking at its layoutreadable content of a page when looking at its layout",
+    "i5": "Update Newsletter",
+    "i6": "Update Location",
+    "i7": "Update demo@gmail.com",
+    "i8": "Update Call +01 1234567890"
+  },
+  "footer": {
+    "p0": "Update All Rights Reserved By",
+    "p1": "Update Free HTML Templates"
+  }
+}
