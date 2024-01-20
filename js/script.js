@@ -15,7 +15,7 @@ const c1 = document.getElementById("c1");
 const c2 = document.getElementById("c2");
 const c3 = document.getElementById("c3");
 
-const d0 = document.getElementById("do");
+const d0 = document.getElementById("d0");
 const d1 = document.getElementById("d1");
 const d2 = document.getElementById("d2");
 const d3 = document.getElementById("d3");
@@ -25,7 +25,7 @@ const e1 = document.getElementById("e1");
 const e2 = document.getElementById("e2");
 const e3 = document.getElementById("e3");
 
-const ct0 = document.getElementById("cto");
+const ct0 = document.getElementById("ct0");
 const ct1 = document.getElementById("ct1");
 const ct2 = document.getElementById("ct2");
 const ct3 = document.getElementById("ct3");
@@ -68,6 +68,39 @@ const i8 = document.getElementById("i8");
 const p0 = document.getElementById("p0");
 const p1 = document.getElementById("p1");
 
+const g0 = document.getElementById('header');
+const g1 = document.getElementById('experience');
+const g2 = document.getElementById('category');
+const g3 = document.getElementById('about');
+const g4 = document.getElementById('freelance');
+const g5 = document.getElementById('client');
+const g6 = document.getElementById('info');
+const g7 = document.getElementById('footer');
+
+
+
+const img1 = document.getElementById('img1');
+const img2 = document.getElementById('img2');
+const img3 = document.getElementById('img3');
+const img4 = document.getElementById('img4');
+const img5 = document.getElementById('img5');
+const img6 = document.getElementById('img6');
+const img7 = document.getElementById('img7');
+const img8 = document.getElementById('img8');
+const img9 = document.getElementById('img9');
+const img10 = document.getElementById('img10');
+const img11 = document.getElementById('img11');
+const img12 = document.getElementById('img12');
+const img13 = document.getElementById('img13');
+const img14 = document.getElementById('img14');
+const img15 = document.getElementById('img15');
+const img16 = document.getElementById('img16');
+const img17 = document.getElementById('img17');
+const img18 = document.getElementById('img18');
+const img19 = document.getElementById('img19');
+const img20 = document.getElementById('img20');
+
+
 
 const paragraph1 = document.getElementById("paragraph1");
 
@@ -81,6 +114,15 @@ function updateContent(element, newValue) {
 function updateLinkContent(linkElement, newValue) {
   // Update content for the <a> tag
   linkElement.innerText = newValue;
+}
+
+function updateImageSrc(imageElement, newSrc) {
+  // Update the src attribute of the image element
+  imageElement.src = newSrc;
+}
+function updateBackgroundColor(element, newColor) {
+// Update the background color for the element
+element.style.backgroundColor = newColor;
 }
 
 // Fetch JSON data from the text file
@@ -159,6 +201,37 @@ function updatePageContent(pageName) {
 
       updateContent(p0, jsonData.footer.p0);
       updateContent(p1, jsonData.footer.p1);
+
+      updateBackgroundColor(g0, jsonData.color.header);
+      updateBackgroundColor(g1, jsonData.color.experience);
+      updateBackgroundColor(g2, jsonData.color.category);
+      updateBackgroundColor(g3, jsonData.color.about);
+      updateBackgroundColor(g4, jsonData.color.freelance);
+      updateBackgroundColor(g5, jsonData.color.client);
+      updateBackgroundColor(g6, jsonData.color.info);
+      updateBackgroundColor(g6, jsonData.color.footer);
+
+
+      updateImageSrc(img1, jsonData.images.img1);
+      updateImageSrc(img2, jsonData.images.img2);
+      updateImageSrc(img3, jsonData.images.img3);
+      updateImageSrc(img4, jsonData.images.img4);
+      updateImageSrc(img5, jsonData.images.img5);
+      updateImageSrc(img6, jsonData.images.img6);
+      updateImageSrc(img7, jsonData.images.img7);
+      updateImageSrc(img8, jsonData.images.img8);
+      updateImageSrc(img9, jsonData.images.img9);
+      updateImageSrc(img10, jsonData.images.img10);
+      updateImageSrc(img11, jsonData.images.img11);
+      updateImageSrc(img12, jsonData.images.img12);
+      updateImageSrc(img13, jsonData.images.img13);
+      updateImageSrc(img14, jsonData.images.img14);
+      updateImageSrc(img15, jsonData.images.img15);
+      updateImageSrc(img16, jsonData.images.img16);
+      updateImageSrc(img17, jsonData.images.img17);
+      updateImageSrc(img18, jsonData.images.img18);
+      updateImageSrc(img19, jsonData.images.img19);
+      updateImageSrc(img20, jsonData.images.img20);
 
       // Extract the filename from the path
       const fileName = pageName.split("/").pop();
