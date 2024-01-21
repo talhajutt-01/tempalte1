@@ -16,7 +16,7 @@
         "img14": "images/f2.png",
         "img15": "images/f3.png",
         "img16": "images/f4.png",
-        "img17": "images/freelance-img.jpg"",
+        "img17": "images/freelance-img.jpg",
         "img18": "images/quote.png",
         "img19": "images/quote.png",
         "img20": "images/quote.png"
