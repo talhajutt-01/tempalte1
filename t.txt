@@ -9,87 +9,87 @@
     "nav3": "Category"
   },
   "b": {
-    "b0": "Updated You Can",
-    "b1": "Updated It is a long established fact that a reader will be distracted by the readable content of a page",
-    "b2": "Updated About us",
-    "b3": "Updated Get a Quote"
+    "b0": "You Can",
+    "b1": "It is a long established fact that a reader will be distracted by the readable content of a page",
+    "b2": "About us",
+    "b3": "Get a Quote"
   },
   "c": {
-    "c0": "Updated You can",
-    "c1": "Updated It is a long established fact that a reader will be distracted by the readable content of a page",
-    "c2": "Updated About us",
-    "c3": "Updated Get a Quote"
+    "c0": "You can",
+    "c1": "It is a long established fact that a reader will be distracted by the readable content of a page",
+    "c2": "About us",
+    "c3": "Get a Quote"
   },
   "d": {
-    "d0": "Updated You can",
-    "d1": "Updated It is a long established fact that a reader will be distracted by the readable content of a page",
-    "d2": "Updated About us",
-    "d3": "Updated Get a Quote"
+    "d0": "You can",
+    "d1": "It is a long established fact that a reader will be distracted by the readable content of a page",
+    "d2": "About us",
+    "d3": "Get a Quote"
   },
   "experience": {
-    "e0": "Updated Best Experienced Freelancer Here",
-    "e1": "Updated It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as",
-    "e2": "Updated Read More",
-    "e3": "Updated Hire"
+    "e0": "Best Experienced Freelancer Here",
+    "e1": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as",
+    "e2": "Read More",
+    "e3": "Hire"
   },
   "category": {
     "ct0": "Category",
-    "ct1": "Update Design and Arts",
-    "ct2": "Update Web Development",
-    "ct3": "Update SEO Marketing",
-    "ct4": "Update Video Editing",
-    "ct5": "Update Logo Design",
-    "ct6": "Update Game Design"
+    "ct1": "Design and Arts",
+    "ct2": "Web Development",
+    "ct3": "SEO Marketing",
+    "ct4": "Video Editing",
+    "ct5": "Logo Design",
+    "ct6": "Game Design"
   },
   "about": {
-    "a0": "Update About Spering Company",
-    "a1": "Update There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you",
-    "a2": "Update Read More"
+    "a0": "About Spering Company",
+    "a1": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you",
+    "a2": "Read More"
   },
   "freelance": {
-    "f0": "Update Work Freelancer Has Done",
-    "f1": "Update $250 Million",
-    "f2": "Update Paid to Freelancers",
-    "f3": "Update 2 Million",
-    "f4": "Update Paid Invoices",
-    "f5": "Update 700,000",
-    "f6": "Update Worldwide Freelancer",
-    "f7": "Update 98%",
-    "f8": "Update Customer Satisfaction Rate"
+    "f0": "Work Freelancer Has Done",
+    "f1": "$250 Million",
+    "f2": "Paid to Freelancers",
+    "f3": "2 Million",
+    "f4": "Paid Invoices",
+    "f5": "700,000",
+    "f6": "Worldwide Freelancer",
+    "f7": "98%",
+    "f8": "Customer Satisfaction Rate"
   },
   "testimonial": {
-    "t0": "Update Testimonial",
-    "t1": "Update John Hissona",
-    "t2": "Update passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If youThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in s",
-    "t3": "Update John Hissona",
-    "t4": "Update passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If youThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in s",
-    "t5": "Update John Hissona",
-    "t6": "Update passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If youThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in s"
+    "t0": "Testimonial",
+    "t1": "John Hissona",
+    "t2": "passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If youThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in s",
+    "t3": "John Hissona",
+    "t4": "passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If youThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in s",
+    "t5": "John Hissona",
+    "t6": "passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If youThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in s"
   },
   "info": {
-    "i0": "Update Useful Link",
-    "i1": "Update Offices",
-    "i2": "Update Readable content of a page when looking at its layoutreadable content of a page when looking at its layout",
-    "i3": "Update Information",
-    "i4": "Update Readable content of a page when looking at its layoutreadable content of a page when looking at its layout",
-    "i5": "Update Newsletter",
-    "i6": "Update Location",
-    "i7": "Update demo@gmail.com",
-    "i8": "Update Call +01 1234567890"
+    "i0": "Useful Link",
+    "i1": "Offices",
+    "i2": "Readable content of a page when looking at its layoutreadable content of a page when looking at its layout",
+    "i3": "Information",
+    "i4": "Readable content of a page when looking at its layoutreadable content of a page when looking at its layout",
+    "i5": "Newsletter",
+    "i6": "Location",
+    "i7": "demo@gmail.com",
+    "i8": "Call +01 1234567890"
   },
   "footer": {
-    "p0": "Update All Rights Reserved By",
-    "p1": "Update Free HTML Templates"
+    "p0": "All Rights Reserved By",
+    "p1": "Free HTML Templates"
   },
 
      "color":{
-        "header":"grey",
-        "experience":"red",
-        "category":"red",
-        "about":"grey",
-        "freelance":"red",
-        "client":"grey",
-        "info":"red",
-        "footer":"red"
+        "header":".",
+        "experience":".",
+        "category":".",
+        "about":".",
+        "freelance":".",
+        "client":".",
+        "info":".",
+        "footer":"."
      }
 }
